@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <SFML/Network.h>
 
 sfSocketStatus is_open(sfIpAddress ip, unsigned short port, sfTime timeout){
